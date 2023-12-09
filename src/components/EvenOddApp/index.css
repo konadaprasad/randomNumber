@@ -1,0 +1,40 @@
+/* Write your CSS here */
+
+.container {
+  height: 100vh;
+  font-family: 'roboto';
+}
+.inner-container {
+  background-image: linear-gradient(to top, #ff6e7f, #bfe9ff);
+  background-size: cover;
+  font-family: 'roboto';
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+.heading {
+  font-size: 28px;
+  color: #0f172a;
+  font-weight: bold;
+}
+.para {
+  font-size: 16px;
+  font-weight: 800;
+  color: #334155;
+}
+.button1 {
+  height: 60px;
+  width: 100px;
+  border-style: solid;
+  border-radius: 5px;
+  background-color: #ffffff;
+  color: #1e293b;
+  text-align: center;
+  align-self: center;
+  border-width: 0px;
+}
+.para1 {
+  font-size: 14px;
+  color: #334155;
+}
